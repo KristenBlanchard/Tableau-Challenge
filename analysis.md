@@ -37,10 +37,7 @@ Includes all trips that were taken from Station A to Station B
 # Gender Breakdown of Active Participants
 ## Sheet 9
 It seems to be the most active partipants are male, however, it is important to note that the unknown genders can effect this data if we were to have that infromation. 
-* Gender Variables  
- * 0 = unknown
- * 1 = male
- * 2 = female
+* Gender Variables: 0 = unknown, 1 = male, 2 = female
 
 
 # Bikes (by ID) are Most Likely Due for Repair or Inspection
