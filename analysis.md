@@ -25,5 +25,27 @@ These may be the Top 10 stations in the city to end a journey becauase there may
 
 # Bottom 10 Stations to Start and End a Journey
 ## Sheet 6 (start)
-
+These may be the Bottom 10 stations in the city for starting because they may be near smaller hubs and site seeing in the city
 ## Sheet 7 (end)
+These may be the bottom 10 to end becuase they are a point in which its close to somebodies home rather than an site seeing location so many probably do not go there. 
+
+# How Many Trips Have Been Recorded Total
+## Sheet 8 
+ 
+Includes all trips that were taken from Station A to Station B
+
+# Gender Breakdown of Active Participants
+## Sheet 9
+Gender Variables  
+* 0 = unknown
+* 1 = male
+* 2 = female
+It seems to be the most active partipants are male, however, it is important to note that the unknown genders can effect this data if we were to have that infromation. 
+
+# Bikes (by ID) are Most Likely Due for Repair or Inspection
+## Sheet 10
+There are a fair share of bikes that are over a count of 100 trips. Though the trip duration was not taken into consideration which could adjust the data in which bikes may need repair or inspection
+
+# The Peak Hours in Which Bikes are Used During the Dated Months
+# Sheet 11
+In the morning around 8am and late afternoon around 6pm it seems are peak hours. 8am is a general time for work hours to start and 6om is also a general time for work hours to close. Thus you can assume that people uses Citi Bikes as a way of transpertation. 
